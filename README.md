@@ -29,6 +29,3 @@ This is a simple web application that allows you to generate QR codes for URLs o
 
 ![Screenshot 2024-06-07 044508](https://github.com/darkiller03/QR-code-generator/assets/167088208/38c1052b-74c6-4811-84b1-1a907ac2ba90)
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
