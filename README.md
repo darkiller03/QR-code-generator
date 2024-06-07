@@ -1,4 +1,4 @@
-# QR Code Generator
+![Screenshot 2024-06-07 044508](https://github.com/darkiller03/QR-code-generator/assets/167088208/e0ebca08-f952-45e5-ad9c-65afd0196622)# QR Code Generator
 
 This is a simple web application that allows you to generate QR codes for URLs or text input. It's built using HTML, CSS, and JavaScript.
 
@@ -24,6 +24,10 @@ This is a simple web application that allows you to generate QR codes for URLs o
 3. Optionally, customize the foreground and background colors using the color input fields.
 4. Click the "Generate QR Code" button.
 5. Click the "Download QR Code" button to download the generated QR code as a PNG image.
+
+## Image
+
+![Screenshot 2024-06-07 044508](https://github.com/darkiller03/QR-code-generator/assets/167088208/38c1052b-74c6-4811-84b1-1a907ac2ba90)
 
 ## License
 
